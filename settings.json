@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ILoveMasha",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "masha-k37d.aternos.me:27184",
+    "port": 27184,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Люблю Машу<3",
+        "Хочу Машу",
+        "Дрочу на Машу",
+        "Обожаю ее"
       ]
     },
     "chat-log": true,
