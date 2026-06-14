@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "masha-k37d.aternos.me:27184",
+    "ip": "masha-k37d.aternos.me",
     "port": 27184,
     "version": "1.21.10",
     "try-creative": false
